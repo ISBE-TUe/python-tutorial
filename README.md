@@ -8,7 +8,7 @@
 python -m venv venv
 ```
 
-### Activating the vitrual environment
+### Activating the virtual environment
 
 ```
 .\venv\venv\Activate.ps1

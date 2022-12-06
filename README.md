@@ -1,5 +1,7 @@
 # Python Workshop
 
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
 ## Get started
 
 ### Creating a virtual environment
@@ -32,3 +34,13 @@ pip install -r requirements.txt
 9. [Dictionary](https://github.com/ISBE-TUe/python-workshop-dec-2022/blob/main/9.dictionary.ipynb)
 10. [Modules](https://github.com/ISBE-TUe/python-workshop-dec-2022/blob/main/10.modules.ipynb)
 11. [Using weather API](https://github.com/ISBE-TUe/python-workshop-dec-2022/blob/main/11.using-weather-api.ipynb)
+
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg

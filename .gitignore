@@ -1,7 +1,6 @@
 \presentation
 full-workshop.ipynb
-*.py
-
+test.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

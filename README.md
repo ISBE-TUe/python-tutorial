@@ -4,29 +4,10 @@
 
 This is a tutorial created at the ISBE Information Systems group of the Built Environment Department of Eindhoven University of Technology. This tutorial targets beginning users, and helps you on your way step by step using several Python notebooks. 
 
-## Getting started
-
-### Creating a virtual environment
-
-```
-python -m venv venv
-```
-
-### Activating the virtual environment
-
-```
-.\venv\venv\Activate.ps1
-```
-
-### Installing dependencies
-```
-pip install -r requirements.txt
-```
-
 ## Content
 
-1. [Introduction](01.intro.ipynb)
-2. [Data types](02.data-types.ipynb)
+1. [Getting Started](01.gettingstarted.ipynb)
+2. [Variables, Data types, and Operators](02.variables-datatypes-operators.ipynb)
 3. [Functions](03.functions.ipynb)
 4. [User Input](04.user-input.ipynb)
 5. [If-else conditional](05.if-else.ipynb)

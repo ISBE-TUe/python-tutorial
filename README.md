@@ -6,18 +6,22 @@ This is a tutorial created at the ISBE Information Systems group of the Built En
 
 ## Content
 
-1. [Getting Started](01.gettingstarted.ipynb)
-2. [Variables, Data types, and Operators](02.variables-datatypes-operators.ipynb)
-3. [Functions](03.functions.ipynb)
-4. [User Input](04.user-input.ipynb)
-5. [conditionals: if else](05.conditionals.ipynb)
-6. [Loops: for, while](06.loops.ipynb)
-7. [List](07.lists.ipynb)
-8. [Set](08.sets.ipynb)
-9. [Dictionary](09.dictionary.ipynb)
-10. [Modules](10.modules.ipynb)
-11. [Using weather API](11.using-weather-api.ipynb)
+Basics
+1. [Getting Started](basics/01.gettingstarted.ipynb)
+2. [Variables, Data types, and Operators](basics/02.variables-datatypes-operators.ipynb)
+3. [Functions](basics/03.functions.ipynb)
+4. [User Input](basics/04.user-input.ipynb)
+5. [conditionals: if else](basics/05.conditionals.ipynb)
+6. [Loops: for, while](basics/06.loops.ipynb)
+7. [Lists](basics/07.lists.ipynb)
+8. [Sets](basics/08.sets.ipynb)
+9. [Dictionary](basics/09.dictionary.ipynb)
+10. [Modules](basics/10.modules.ipynb)
+11. [Using weather API](basics/11.using-weather-api.ipynb)
 
+Objects and Classes
+1. [Object-oriented coding](objectsAndClasses/01.object-oriented-coding.ipynb)
+2. [IfcOpenShell](objectsAndClasses/02.ifcopenshell.ipynb)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].

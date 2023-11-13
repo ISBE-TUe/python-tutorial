@@ -1,0 +1,12 @@
+3vB2YO$MX4xv5uCqZZG05x;Wall xyz;Pset_WallCommon;Reference;
+3vB2YO$MX4xv5uCqZZG05x;Wall xyz;Pset_WallCommon;AcousticRating;
+3vB2YO$MX4xv5uCqZZG05x;Wall xyz;Pset_WallCommon;FireRating;Class A
+3vB2YO$MX4xv5uCqZZG05x;Wall xyz;Pset_WallCommon;Combustible;False
+3vB2YO$MX4xv5uCqZZG05x;Wall xyz;Pset_WallCommon;SurfaceSpreadOfFlame;
+3vB2YO$MX4xv5uCqZZG05x;Wall xyz;Pset_WallCommon;ThermalTransmittance;0.24
+3vB2YO$MX4xv5uCqZZG05x;Wall xyz;Pset_WallCommon;IsExternal;True
+3vB2YO$MX4xv5uCqZZG05x;Wall xyz;Pset_WallCommon;ExtendToStructure;False
+3vB2YO$MX4xv5uCqZZG05x;Wall xyz;Pset_WallCommon;LoadBearing;False
+3vB2YO$MX4xv5uCqZZG05x;Wall xyz;Pset_WallCommon;Compartmentation;False
+3vB2YO$MX4xv5uCqZZG05x;Wall xyz;MyPropertySet;MyProperty1;
+3vB2YO$MX4xv5uCqZZG05x;Wall xyz;MyPropertySet;MyProperty2;

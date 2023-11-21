@@ -19,9 +19,12 @@ Basics
 10. [Modules](basics/10.modules.ipynb)
 11. [Using weather API](basics/11.using-weather-api.ipynb)
 
-Objects and Classes
-1. [Object-oriented coding](objectsAndClasses/01.object-oriented-coding.ipynb)
-2. [IfcOpenShell](objectsAndClasses/02.ifcopenshell.ipynb)
+Advanced
+1. [Object-oriented coding](advanced/01.object-oriented-coding.ipynb)
+2. [IfcOpenShell](advanced/02.ifcopenshell.ipynb)
+2. [Pandas](advanced/03.pandas.ipynb)
+2. [Matplotlib](advanced/04.matplotlib.ipynb)
+2. [Regression](advanced/05.regression.ipynb)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].

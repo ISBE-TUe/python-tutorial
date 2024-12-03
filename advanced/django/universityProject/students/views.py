@@ -1,7 +1,8 @@
-from django.shortcuts import render, redirect
 from django.http import HttpResponse
-from .models import Course, Student
+from django.shortcuts import redirect, render
+
 from .forms import NewCourseForm, NewStudentForm
+from .models import Course, Student
 
 
 def index(request):
